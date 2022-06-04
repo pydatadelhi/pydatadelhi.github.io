@@ -23,7 +23,7 @@ email: delhi@pydata.org
 description: >- # this means to ignore newlines until "baseurl:"
   A community for developers and users of open source data tools.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pydatadelhi.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://pydatadelhi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pydatadelhi
 github_username:  pydatadelhi
 
