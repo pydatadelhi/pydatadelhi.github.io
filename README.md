@@ -1,2 +1,1 @@
-# pydatadelhi.github.io
-PyData Delhi Website
+# PyData Delhi Website
