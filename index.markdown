@@ -19,7 +19,7 @@ A community for developers and users of open source data tools.
 Want to speak at PyData Delhi? Create an issue here! 👇🏻
 {: .fs-5 .fw-300 } 
 
-[Propose a Talk or Tutorial](https://github.com/pydatadelhi/talk/issues){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Propose a Talk or Tutorial](https://github.com/pydatadelhi/talks/issues){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [RSVP for Upcoming Meetup](https://www.meetup.com/pydatadelhi/events/285859183/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
@@ -45,7 +45,7 @@ best practices in data science/engineering/ops, open-source tools/libraries,
 data visualisation, computer vision, NLP etc.
 
 If you wish to speak at one of our upcoming meetups, please create an issue on
-our GitHub repo [here](https://github.com/pydatadelhi/talk/issues).
+our GitHub repo [here](https://github.com/pydatadelhi/talks/issues).
 
 Please try to create the issue at least a week before the actual meetup date so
 that reviewers have sufficient time to go through your proposal.

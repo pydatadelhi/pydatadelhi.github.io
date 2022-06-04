@@ -23,7 +23,7 @@ permalink: /team/
 
 - Manoj Pandey
 - Laksh Arora
-- Khusal
+- Khusal Vyas
 - Aditi Tibarewal
 - Mayank Singh
 - Rakshit Kharbanda
