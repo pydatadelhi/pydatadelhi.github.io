@@ -39,7 +39,7 @@ Logistics:
 
 • Nearest Metro Station: Janpath (Violet Line)
 
-Doors open at 1:30 PM, and talks start at 2:00 PM.
+Doors open at 13:30, and talks start at 14:00.
 
 ***
 
@@ -60,3 +60,7 @@ spot, post a comment with your talk's title/topic and create an issue at
 Beginner topics are always welcome!
 
 See you at the meetup! ✌🏻
+
+---
+
+Photos: The photos for the meetup are available [here](https://photos.app.goo.gl/i2XpcpgawnYq12Qv8).
