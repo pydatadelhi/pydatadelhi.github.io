@@ -26,7 +26,7 @@ Want to speak at PyData Delhi? Create an issue here! 👇🏻
 
 ![group_photo](../assets/images/group_photo.jpg)
 
-PyData is an educational program of NumFOCUS, a 501(c)3 non-profit organization
+PyData is an educational program of [NumFOCUS](https://numfocus.org/), a 501(c)3 non-profit organization
 in the United States. PyData provides a forum for the international community
 of users and developers of data analysis tools to share ideas and learn from
 each other. The global PyData network promotes discussion of best practices,
