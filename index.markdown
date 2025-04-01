@@ -17,10 +17,10 @@ A community for developers and users of open source data tools.
 {: .fs-6 .fw-300 }
 
 Want to speak at PyData Delhi? Create an issue here! 👇🏻
-{: .fs-5 .fw-300 } 
+{: .fs-5 .fw-300 }
 
 [Propose a Talk or Tutorial](https://github.com/pydatadelhi/talks/issues){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[RSVP for Upcoming Meetup](https://www.meetup.com/pydatadelhi/events/285859183/){: .btn .fs-5 .mb-4 .mb-md-0 }
+[RSVP for Upcoming Meetup](https://www.meetup.com/pydatadelhi/events/307044864/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -55,7 +55,7 @@ that reviewers have sufficient time to go through your proposal.
 
 A group of volunteers organises PyData Delhi monthly meetups and conferences.
 Since 2016, we have always strived to provide quality discussions, talks and
-workshops to our community. 
+workshops to our community.
 
 The PyData Delhi team consists of humble volunteers who organise the logistics
 of the meetups and conferences. The organising team works full time on their
