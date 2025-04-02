@@ -78,4 +78,4 @@ Follow us on:
 
 Talk to us on:
 
-[<img src="../assets/images/telegram.png" alt="telegram" width="55/">](https://t.me/+QatRDofNFylXHrpH)
+[<img src="../assets/images/telegram.png" alt="telegram" width="55/">](https://t.me/+yVjqRjOUUL1iYjI1)
