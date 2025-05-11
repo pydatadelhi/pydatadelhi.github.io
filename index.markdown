@@ -20,7 +20,7 @@ Want to speak at PyData Delhi? Create an issue here! 👇🏻
 {: .fs-5 .fw-300 }
 
 [Propose a Talk or Tutorial](https://github.com/pydatadelhi/talks/issues){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[RSVP for Upcoming Meetup](https://www.meetup.com/pydatadelhi/events/307766123){: .btn .fs-5 .mb-4 .mb-md-0 }
+[RSVP for Upcoming Meetup](https://www.meetup.com/pydatadelhi/events/307766123/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
